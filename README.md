@@ -15,9 +15,7 @@ Veja o exemplo a seguir do layout do projeto!
 
 ![Gravação de tela de 21-09-2022 20_00_16](https://user-images.githubusercontent.com/108958216/215821085-b91c6e77-2fd3-41c8-86a1-19bfc67d20c1.gif)
 
-## Instalação do projeto localmente
-
-Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _engcivil.scarlat@gmail.com_ 
+## Instalação do projeto localmente 
 
 1. Abra o terminal e crie um diretório no local de sua preferência com o comando **mkdir**:
 ```javascript
@@ -27,7 +25,7 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 2. Entre no diretório que acabou de criar e depois clone o projeto:
 ```javascript
   cd projetos
-  git clone git@github.com:scarlat-pereira/project-solar-system.git
+  git clone git@github.com:joaolelles/project-solar-system.git
 ```
 
 3. Acesse o diretório do projeto e depois utilize o comando **npm i** para instalar todas as dependências necessárias:
